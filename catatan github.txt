@@ -1,0 +1,13 @@
+basic git command
+
+git init >> untuk menginisiasasi project
+
+git status >> melihat status git
+
+git log >> melihat histori yang pernah dilakukan
+
+git add >> memasukan projek dari local ke github
+
+git commit >> memasukan projek dari local ke github
+
+git push >> memasukan projek dari local ke github
